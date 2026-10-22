@@ -1,0 +1,1 @@
+Create setup_check.py. Import NumPy, Matplotlib and OpenCV (cv2), and print their versions. Use NumPy to create x = 0, 1, 2, 3, 4 and plot y = x squared. Label the axes, save setup_check.png and display the plot. Also create requirements.txt listing numpy, matplotlib and opencv-python. Use the selected Python interpreter; do not install packages or change unrelated files.
